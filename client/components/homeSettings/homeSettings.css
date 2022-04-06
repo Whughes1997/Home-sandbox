@@ -1,0 +1,7 @@
+.homeSettings {
+  display: flex;
+  z-index: 1;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+}
